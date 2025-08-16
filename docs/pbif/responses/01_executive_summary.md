@@ -1,0 +1,9 @@
+PolicyEngine proposes to build the Policy Library, an AI-powered infrastructure creating permanent, machine-readable archives of safety net program rules across federal, state, and DC jurisdictions. Our solution addresses the critical problem of disappearing policy documents that cause families to lose benefits and organizations to waste thousands of hours maintaining broken systems when links break and documents vanish.
+
+We monitor agency websites across 50+ jurisdictions weekly, capturing statutes, regulations, and forms before they vanish, then use Claude and GPT-4 to analyze changes and measure document clarity. Human reviewers verify accuracy through GitHub pull requests, ensuring reliability. We serve everything through a stable API with permanent source IDs that never break, replacing fragile direct links.
+
+The Policy Library will directly benefit three groups: families accessing benefits (reaching tens of thousands annually through partner tools), direct service organizations like MyFriendBen and Benefit Navigator (saving thousands of hours yearly on maintenance), and AI developers building benefit tools (providing authoritative sources to prevent hallucination).
+
+Our pilot with North Carolina and the Atlanta Fed's Policy Rules Database proves the concept. With PolicyEngine's existing infrastructure serving 72,000 households annually, we're positioned to scale. Year one will archive thousands of documents across all states, integrate with major benefit access tools, establish the national standard for policy preservation, and launch our Clarity Index to reduce errors by improving document clarity.
+
+This investment will create lasting infrastructure that makes America's safety net more accessible, accurate, and equitable, while advancing the frontier of AI-powered government services through reliable, permanent source documentation.
